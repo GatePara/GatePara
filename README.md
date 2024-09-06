@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is SuperPara and I'm a graduate student studying at Xidian University, affiliated with the Institute of Intelligent Media and Data Engineering.</p>
+<p align="left">My name is Para and I'm a graduate student studying at Xidian University, affiliated with the Institute of Intelligent Media and Data Engineering.</p>
 
 ###
 
