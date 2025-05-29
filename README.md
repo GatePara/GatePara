@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently studying and researching approximate nearest neighbor search algorithms.<br>🎯 Goals: become a proficient programmer and contribute to the development of computer technology and the open-source software community.<br>🎲 Fun fact: watching movies, listening to music, cycling.</p>
+<p align="left">📚 I'm currently studying and researching approximate nearest neighbor search algorithms.<br>🎯 Goals: become a proficient programmer and contribute to the development of computer technology and the open-source software community.<br>🎲 Fun fact: watching movies, listening to music, cycling.</p>
 
 ###
 
